@@ -1,0 +1,22 @@
+{
+  "name": "07-webserver",
+  "version": "1.0.0",
+  "description": "```npm install```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvelezroman/07-webserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvelezroman/07-webserver/issues"
+  },
+  "homepage": "https://github.com/dvelezroman/07-webserver#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
